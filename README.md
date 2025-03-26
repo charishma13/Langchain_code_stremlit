@@ -1,4 +1,4 @@
-# Langchain v3.0 code for RAG
+# Langchain v3.0 code
 
 Reference: https://www.youtube.com/watch?v=AjQPRomyd-k
 
